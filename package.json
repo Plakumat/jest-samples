@@ -1,0 +1,17 @@
+{
+  "name": "test-with-jest",
+  "version": "1.0.0",
+  "description": "Small tutorials for learning Jest skills",
+  "main": "index.js",
+  "author": "Plakumat",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.1",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
